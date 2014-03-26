@@ -1,0 +1,10 @@
+<Alloy>
+	<NavigationWindow platform="ios">	
+		<Window class="index" title="Nav HTML Parser app">
+			<Button class="button" onClick="nextWindow">nextWindow</Button>
+		</Window>	
+	</NavigationWindow>
+</Alloy>
+
+
+	

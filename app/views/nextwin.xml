@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="nextwin">
+		<LeftNavButton>
+		        <Button class="button" onClick="closeWin">Back</Button>	
+		</LeftNavButton>
+		<Button class="button" onClick="getPageandParse">getPageandParse</Button>
+	</Window>
+</Alloy>
