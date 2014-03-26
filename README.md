@@ -1,4 +1,4 @@
 testnavhtmlparser
 =================
 
-Titanium navhtmlparser
+Titanium Alloy navhtmlparser
